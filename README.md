@@ -11,9 +11,8 @@ from the public record.
 | # | Finding | Source |
 |---|---|---|
 | 1 | Listed U.S. companies per million people peaked in **1996** and have fallen **57%** since. | World Bank, via FRED |
-| 2 | **59,898 Form D** private placements were filed in the last 12 months — ~164 every day. Operating companies raised **\$28B in IPOs vs ~\$949B in exempt offerings** in the SEC's latest reporting year. | SEC EDGAR; SEC capital-formation statistics |
-| 3 | Only **7.9%** of U.S. tax returns show income above the \$200k accredited-investor line; in just **331 of 30,547 ZIP codes** (1.1%) does the *median* household clear it. | IRS Statistics of Income (TY2022); Census ACS 2024 |
-| 4 | **22,560 Form C** regulated-crowdfunding offerings have been filed since the exemption opened private investing to all Americans in May 2016. | SEC EDGAR |
+| 2 | **59,898 Form D** private placements were filed in the last 12 months (~164/day) vs **612 priced IPOs** — 98×. Operating companies raised **\$28B in IPOs vs ~\$949B in exempt offerings** in the SEC's latest reporting year. | SEC EDGAR; SEC capital-formation statistics |
+| 3 | **12.3 million** U.S. tax returns (7.9% of filers) show income above the \$200k accreditation line — a large audience that is also **geographically scattered**: 13.3% of households earn \$200k+, yet in only 331 of 30,547 ZIP codes is that the median. | IRS Statistics of Income (TY2022); Census ACS 2024 |
 
 GitHub renders the executed notebook — including all charts —
 [directly in the browser](private_markets.ipynb).
