@@ -44,6 +44,13 @@ Or execute headlessly and view the refreshed result:
 FRED_API_KEY=your-fred-key uv run jupyter nbconvert --to notebook --execute --inplace private_markets.ipynb
 ```
 
+To produce the article-formatted PDF (prose and charts only, no code — StartEngine
+brand styling):
+
+```bash
+uv run python make_article_pdf.py     # -> private_markets_article.pdf
+```
+
 The SEC asks API consumers to identify themselves; the notebook sets a descriptive
 `User-Agent` by default (override with `EDGAR_MCP_USER_AGENT="your-app you@example.com"`).
 

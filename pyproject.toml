@@ -9,6 +9,7 @@ dependencies = [
     "mcpwright-edgar>=0.1.1",
     "mcpwright-fred>=0.1.0",
     "mcpwright-soi>=0.1.1",
+    "mistune>=3.2.1",
     "nbconvert>=7.17.1",
     "pandas>=3.0.3",
     "seaborn>=0.13.2",
