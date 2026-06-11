@@ -1,0 +1,21 @@
+[project]
+name = "private-markets-research"
+version = "0.1.0"
+requires-python = ">=3.12.8"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.9",
+    "mcpwright-census>=0.1.2",
+    "mcpwright-edgar>=0.1.1",
+    "mcpwright-fred>=0.1.0",
+    "mcpwright-soi>=0.1.1",
+    "nbconvert>=7.17.1",
+    "pandas>=3.0.3",
+    "seaborn>=0.13.2",
+]
+
+[dependency-groups]
+dev = [
+    "nbconvert[webpdf]>=7.17.1",
+    "playwright>=1.60.0",
+]
