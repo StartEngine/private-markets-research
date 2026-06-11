@@ -93,6 +93,9 @@ def render() -> str:
         '<p style="color:var(--muted); margin-top:4px;">June 2026 · '
         "<strong>draft for internal review</strong></p>"
     )
+    # the notebook's own byline duplicates the styled one — drop it
+    import re as _re
+    body = _re.sub(r"<p><em>StartEngine research notebook.*?</em></p>", "", body, count=1)
     first_h1 = body.find("<h1>")
     if first_h1 != -1:
         end = body.find("</h1>", first_h1) + len("</h1>")
