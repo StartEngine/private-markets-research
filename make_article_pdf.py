@@ -90,8 +90,7 @@ def render() -> str:
     title_html = (
         '<p class="kicker">StartEngine Research</p>'
         "<h1>The Private Market, Hiding in Public Data</h1>"
-        '<p style="color:var(--muted); margin-top:4px;">June 2026 · '
-        "<strong>draft for internal review</strong></p>"
+        '<p style="color:var(--muted); margin-top:4px;">June 2026</p>'
     )
     # the notebook's own byline duplicates the styled one — drop it
     import re as _re
