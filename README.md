@@ -6,7 +6,7 @@ Bureau — by the code in [`private_markets.ipynb`](private_markets.ipynb). No a
 spreadsheets, no third-party estimates: run the notebook and the numbers regenerate
 from the public record.
 
-## Findings (as of June 10, 2026 — rerun for current values)
+## Findings (as of June 11, 2026 — rerun for current values)
 
 | # | Finding | Source |
 |---|---|---|
