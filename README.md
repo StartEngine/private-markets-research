@@ -1,4 +1,4 @@
-# The Case for Private Markets, Told Entirely From Public Data
+# The Private Market, Hiding in Public Data
 
 A reproducible research notebook. Every figure is pulled **live from a primary
 government source** — the Federal Reserve, the SEC, the IRS, and the U.S. Census

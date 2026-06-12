@@ -89,7 +89,7 @@ def render() -> str:
     # Drop the notebook's own H1 block and rebuild a branded title.
     title_html = (
         '<p class="kicker">StartEngine Research</p>'
-        "<h1>The Case for Private Markets, Told Entirely From Public Data</h1>"
+        "<h1>The Private Market, Hiding in Public Data</h1>"
         '<p style="color:var(--muted); margin-top:4px;">June 2026 · '
         "<strong>draft for internal review</strong></p>"
     )
