@@ -71,10 +71,12 @@ All four: [mcpwright.com](https://mcpwright.com) · [github.com/mcpwright](https
 ## Disclaimers
 
 This repository is for informational and educational purposes only. It is not investment
-advice, an offer to sell, or a solicitation of an offer to buy any security. Past or
-aggregate market activity does not predict the performance of any investment. Investments
-in private companies involve a high degree of risk, including the possible loss of your
-entire investment.
+advice, a recommendation, an offer to sell, or a solicitation of an offer to buy any
+security. Private investments are speculative, illiquid, and involve a high degree of
+risk, including the possible loss of your entire investment. Past or aggregate market
+activity does not predict the performance of any investment. Investors should review all
+offering materials and consult their own legal, tax, and financial advisers before
+investing.
 
 This product uses the FRED® API but is not endorsed or certified by the Federal Reserve
 Bank of St. Louis. FRED® is a registered trademark of the Federal Reserve Bank of
